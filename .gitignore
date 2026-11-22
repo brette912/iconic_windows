@@ -1,0 +1,10 @@
+# Build output
+bin/
+obj/
+Share/
+
+# Logs from the helper scripts
+build-log.txt
+package-log.txt
+sdk-install-log.txt
+*.tmp

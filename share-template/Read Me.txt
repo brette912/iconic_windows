@@ -1,0 +1,19 @@
+ICONIC - a frosted-glass home for your desktop icons (Windows 11)
+
+INSTALL
+1. Right-click Iconic.zip and choose "Extract All".
+2. Open the extracted folder and double-click "Install Iconic".
+3. If Windows shows "Windows protected your PC", click "More info", then "Run anyway".
+   (It shows this for any app that isn't from a big publisher.)
+
+Iconic opens and offers to tidy your desktop. Say yes and everything moves into the
+Iconic window, leaving one Iconic icon on the desktop. Nothing is deleted: items are kept
+in Documents\Iconic Library, and the ••• menu has "Put everything back on desktop".
+
+TIPS
+- Click an icon to open it. Type anywhere to search; Enter opens the first match.
+- Drag icons to rearrange them or move them between groups.
+- Right-click an icon to rename it, change its picture or move it to another group.
+- Right-click a group's title to rename it, recolor, sort, reorder or delete it.
+- The pin button keeps the window open when you click away (handy for dragging files in).
+- ••• menu: add apps, tidy the desktop, Start with Windows, quit.
