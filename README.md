@@ -2,6 +2,8 @@
 
 A frosted-glass desktop icon manager for Windows 11. One icon on your desktop; click it and a glass panel opens with all your apps, files and folders, arranged in labeled, colored groups.
 
+![Iconic panel](docs/screenshot.png)
+
 ## Install
 
 Double-click **Build.cmd**. It builds Iconic, installs it to `%LOCALAPPDATA%\Programs\Iconic`, puts the Iconic icon on your desktop and opens it.
