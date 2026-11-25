@@ -4,7 +4,17 @@ A frosted-glass desktop icon manager for Windows 11. One icon on your desktop; c
 
 ![Iconic panel](docs/screenshot.png)
 
-## Install
+## Download
+
+Grab the latest release: **[Iconic.zip](https://github.com/brette912/iconic_windows/releases/latest)**
+
+1. Download and extract `Iconic.zip`.
+2. Double-click **Install Iconic**.
+3. If Windows shows "Windows protected your PC", click **More info**, then **Run anyway**.
+
+No .NET install needed — the download is self-contained.
+
+## Build from source
 
 Double-click **Build.cmd**. It builds Iconic, installs it to `%LOCALAPPDATA%\Programs\Iconic`, puts the Iconic icon on your desktop and opens it.
 
